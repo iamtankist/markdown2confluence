@@ -6,6 +6,7 @@ help: ## display this help
 
 build: ## build the project
 	@echo "Building the project"
+	go mod tidy
 	go build -o conv main.go
 	chmod +x conv
 
