@@ -1,4 +1,4 @@
-# Visit https://github.com/kovetskiy/mark to get more information
+# Visit https://github.com/kovetskiy/mark for more configuration options
 username = "your-email"
 password = "password-or-api-key-for-confluence-cloud"
 # If you are using Confluence Cloud add the /wiki suffix to base_url
