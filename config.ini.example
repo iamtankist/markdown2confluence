@@ -1,0 +1,9 @@
+# Visit https://github.com/kovetskiy/mark to get more information
+username = "your-email"
+password = "password-or-api-key-for-confluence-cloud"
+# If you are using Confluence Cloud add the /wiki suffix to base_url
+base-url = "https://example.atlassian.net/wiki/"
+minor-edit = true
+space = "SpaceKey"
+parents = "ParentPage1,ParentPage2"
+parents-delimiter = ","
